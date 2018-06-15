@@ -1,0 +1,15 @@
+.ccc{
+    border: 60px  red;
+
+    background-color: bisque;
+
+
+    height: 400px; /* only for demonstration, should be removed */
+
+    padding: 5px;
+
+    width: 100px;
+
+    font-size: 20px
+
+}
