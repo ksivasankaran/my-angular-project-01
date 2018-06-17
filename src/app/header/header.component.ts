@@ -13,5 +13,7 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  onClick(aa){
+    console.log('this is your email address')
+      }
 }

@@ -10,14 +10,20 @@
 
     background-color:sandybrown;
 
-    height: 50px;
-
     width: 100%;
 
-    text-align: center
+    text-align:center;
 
-    
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
 
 
 
+
+
+.pagination{
+
+
+    /* padding: 20px */
 }

@@ -3,9 +3,19 @@
 
 <app-header [aaa]=" 'sss' " ></app-header>
 
-<app-nav></app-nav> 
+
+<div>
+    <div style="display: inline-block; width: 20vw;">
+            <app-nav></app-nav> 
+    </div>
+    <div  style="display: inline-block; width: 75vw">
+            <router-outlet></router-outlet>
+    </div>
+</div>
 
 
-        <app-fooder></app-fooder>
+
+
+<app-fooder></app-fooder>
 
 
